@@ -1,5 +1,9 @@
-### Hi there 👋
+### Student of Industrial Engineering, Seoul National University of Science and Technology
++ Applied Stochastic Modeling Lab
 
+### interest
++ Machine learning
++ Reinforcement learning 
 <!--
 **bongseokkim/bongseokkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +18,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bongseokkim)](https://github.com/anuraghazra/github-readme-stats)
