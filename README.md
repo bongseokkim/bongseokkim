@@ -1,7 +1,7 @@
 ### Student of Industrial Engineering, Seoul National University of Science and Technology
 + Applied Stochastic Modeling Lab
 
-### interest
+### Interest
 + Machine learning
 + Reinforcement learning 
 <!--
