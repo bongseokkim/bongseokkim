@@ -1,9 +1,13 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=bongseokkim&fontSize=30)
+
 ### Student of Industrial Engineering, Seoul National University of Science and Technology
-+ Applied Stochastic Modeling Lab
++ Applied Stochastic Modeling Lab ⚡
 
 ### Interest
-+ Machine learning
-+ Reinforcement learning 
++  Machine learning
++  Reinforcement learning 
+
+
 <!--
 **bongseokkim/bongseokkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
