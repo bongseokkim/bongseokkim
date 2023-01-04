@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=bongseokkim&fontSize=30)
 
-### Student of Industrial Engineering, Seoul National University of Science and Technology
+### Student of DastaScience, Seoul National University of Science and Technology
 + Applied Stochastic Modeling Lab ⚡
 
 ### Interest
