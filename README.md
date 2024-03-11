@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=bongseokkim&fontSize=30)
 
-###  MS Student of DastaScience, Seoul National University of Science and Technology
+###  MS DastaScience, Seoul National University of Science and Technology
 + Applied Stochastic Modeling Lab ⚡
 
 ### Interest
