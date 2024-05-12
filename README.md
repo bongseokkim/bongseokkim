@@ -4,6 +4,7 @@
 + Applied Stochastic Modeling Lab ⚡
 
 ### Interest
++  Data analysis
 +  Machine learning
 +  Reinforcement learning 
 
