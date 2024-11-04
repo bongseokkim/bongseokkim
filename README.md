@@ -2,12 +2,12 @@
 
 ###  MS DastaScience, Seoul National University of Science and Technology
 + Applied Stochastic Modeling Lab ⚡
-
++ Currently, AI researcher At POSCO DX 
 ### Interest
 +  Data analysis
 +  Machine learning
 +  Reinforcement learning 
-
++  Stochastic Optimization
 
 <!--
 **bongseokkim/bongseokkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
